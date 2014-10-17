@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbl:home|Door43 (dbl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbl|d43-dbl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbl/archive/master.zip|d43-dbl.zip]]
+
+**Recent Changes**
+{{changes>ns = dbl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbl|Ethnologue data]]
+
